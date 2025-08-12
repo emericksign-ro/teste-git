@@ -1,0 +1,16 @@
+EMERICK - START PACK (FINAL)
+
+1) Pré-requisitos (uma vez):
+   - Python 3.11 (64-bit) com "Add to PATH"
+   - Node.js LTS (22.x)
+   - (Opcional) mover o projeto para C:\Emerick\ para evitar bloqueios do OneDrive
+
+2) Como usar:
+   - Coloque estes arquivos na mesma pasta onde estão `sistema_completo` e `sistema-web`.
+   - Dê dois cliques em **Iniciar_API_FINAL.bat**.
+   - Dê dois cliques em **Iniciar_Site_FINAL.bat**.
+   - Acesse: http://localhost:5173  (API em http://localhost:5000)
+
+3) Dados de teste (opcional):
+   - Copie a pasta **copia_para_sistema_completo/tools** para dentro de `sistema_completo/`.
+   - Depois que a API estiver no ar, rode **Seed_Dados.bat** para criar registros via API.
